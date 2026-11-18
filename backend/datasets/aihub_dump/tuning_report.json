@@ -1,0 +1,860 @@
+{
+ "v1_last_week": {
+  "clips": 40,
+  "recall": 0.8,
+  "fp_episodes": 69,
+  "fp_per_min": 2.660822284065273,
+  "fired_frames": 1029,
+  "median_latency_sec": 2.3000000000000007,
+  "per_clip": {
+   "155-1_cam01_dump01_place04_day_spring": {
+    "hit": false,
+    "fp_episodes": 1,
+    "first_fire_vs_label_sec": null
+   },
+   "155-1_cam01_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 2,
+    "first_fire_vs_label_sec": 3.0
+   },
+   "155-1_cam02_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 0,
+    "first_fire_vs_label_sec": 4.899999999999999
+   },
+   "155-1_cam02_dump01_place04_day_summer": {
+    "hit": false,
+    "fp_episodes": 0,
+    "first_fire_vs_label_sec": null
+   },
+   "155-2_cam01_dump01_place04_day_spring": {
+    "hit": false,
+    "fp_episodes": 0,
+    "first_fire_vs_label_sec": null
+   },
+   "155-2_cam01_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 1,
+    "first_fire_vs_label_sec": -0.1999999999999993
+   },
+   "155-2_cam02_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 2,
+    "first_fire_vs_label_sec": 1.1000000000000014
+   },
+   "155-2_cam02_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 2,
+    "first_fire_vs_label_sec": 9.899999999999999
+   },
+   "155-3_cam01_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 0,
+    "first_fire_vs_label_sec": 0.8000000000000007
+   },
+   "155-3_cam01_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 0,
+    "first_fire_vs_label_sec": 1.1000000000000014
+   },
+   "155-3_cam02_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 2,
+    "first_fire_vs_label_sec": 6.600000000000001
+   },
+   "155-3_cam02_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 1,
+    "first_fire_vs_label_sec": 1.3000000000000007
+   },
+   "155-4_cam01_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 0,
+    "first_fire_vs_label_sec": 14.600000000000001
+   },
+   "155-4_cam01_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 2,
+    "first_fire_vs_label_sec": 14.5
+   },
+   "155-4_cam02_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 0,
+    "first_fire_vs_label_sec": 2.0
+   },
+   "155-4_cam02_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 0,
+    "first_fire_vs_label_sec": 1.6000000000000014
+   },
+   "155-5_cam01_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 1,
+    "first_fire_vs_label_sec": 0.6000000000000014
+   },
+   "155-5_cam01_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 0,
+    "first_fire_vs_label_sec": 1.0
+   },
+   "155-5_cam02_dump01_place04_day_spring": {
+    "hit": false,
+    "fp_episodes": 0,
+    "first_fire_vs_label_sec": null
+   },
+   "155-5_cam02_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 0,
+    "first_fire_vs_label_sec": 9.100000000000001
+   },
+   "155-6_cam01_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 4,
+    "first_fire_vs_label_sec": 0.5
+   },
+   "155-6_cam01_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 1,
+    "first_fire_vs_label_sec": 11.700000000000003
+   },
+   "155-6_cam02_dump01_place04_day_spring": {
+    "hit": false,
+    "fp_episodes": 3,
+    "first_fire_vs_label_sec": null
+   },
+   "155-6_cam02_dump01_place04_day_summer": {
+    "hit": false,
+    "fp_episodes": 2,
+    "first_fire_vs_label_sec": null
+   },
+   "157-1_cam01_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 2,
+    "first_fire_vs_label_sec": 8.600000000000001
+   },
+   "157-1_cam01_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 2,
+    "first_fire_vs_label_sec": 2.8000000000000007
+   },
+   "157-1_cam02_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 3,
+    "first_fire_vs_label_sec": -0.6000000000000014
+   },
+   "157-1_cam02_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 1,
+    "first_fire_vs_label_sec": -0.5
+   },
+   "157-2_cam01_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 1,
+    "first_fire_vs_label_sec": 8.399999999999999
+   },
+   "157-2_cam01_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 5,
+    "first_fire_vs_label_sec": 1.3000000000000007
+   },
+   "157-2_cam02_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 0,
+    "first_fire_vs_label_sec": 1.3000000000000007
+   },
+   "157-2_cam02_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 7,
+    "first_fire_vs_label_sec": 2.6000000000000014
+   },
+   "157-3_cam01_dump01_place04_day_spring": {
+    "hit": false,
+    "fp_episodes": 4,
+    "first_fire_vs_label_sec": null
+   },
+   "157-3_cam01_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 3,
+    "first_fire_vs_label_sec": 2.6000000000000014
+   },
+   "157-3_cam02_dump01_place04_day_spring": {
+    "hit": false,
+    "fp_episodes": 1,
+    "first_fire_vs_label_sec": null
+   },
+   "157-3_cam02_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 3,
+    "first_fire_vs_label_sec": 3.0
+   },
+   "157-4_cam01_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 4,
+    "first_fire_vs_label_sec": 0.3999999999999986
+   },
+   "157-4_cam01_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 5,
+    "first_fire_vs_label_sec": 4.5
+   },
+   "157-4_cam02_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 1,
+    "first_fire_vs_label_sec": 0.10000000000000142
+   },
+   "157-4_cam02_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 3,
+    "first_fire_vs_label_sec": 3.8999999999999986
+   }
+  }
+ },
+ "v2_current": {
+  "clips": 40,
+  "recall": 0.925,
+  "fp_episodes": 75,
+  "fp_per_min": 2.8921981348535577,
+  "fired_frames": 6025,
+  "median_latency_sec": 1.3000000000000007,
+  "per_clip": {
+   "155-1_cam01_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 1,
+    "first_fire_vs_label_sec": 1.3000000000000007
+   },
+   "155-1_cam01_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 2,
+    "first_fire_vs_label_sec": 3.0
+   },
+   "155-1_cam02_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 0,
+    "first_fire_vs_label_sec": 7.0
+   },
+   "155-1_cam02_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 0,
+    "first_fire_vs_label_sec": 2.0
+   },
+   "155-2_cam01_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 1,
+    "first_fire_vs_label_sec": 1.3000000000000007
+   },
+   "155-2_cam01_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 2,
+    "first_fire_vs_label_sec": -0.1999999999999993
+   },
+   "155-2_cam02_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 1,
+    "first_fire_vs_label_sec": 1.1000000000000014
+   },
+   "155-2_cam02_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 3,
+    "first_fire_vs_label_sec": 1.3000000000000007
+   },
+   "155-3_cam01_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 0,
+    "first_fire_vs_label_sec": 0.8000000000000007
+   },
+   "155-3_cam01_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 0,
+    "first_fire_vs_label_sec": 1.1000000000000014
+   },
+   "155-3_cam02_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 1,
+    "first_fire_vs_label_sec": 1.3000000000000007
+   },
+   "155-3_cam02_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 1,
+    "first_fire_vs_label_sec": 1.3000000000000007
+   },
+   "155-4_cam01_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 1,
+    "first_fire_vs_label_sec": 2.8000000000000007
+   },
+   "155-4_cam01_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 3,
+    "first_fire_vs_label_sec": 3.3000000000000007
+   },
+   "155-4_cam02_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 0,
+    "first_fire_vs_label_sec": 2.0
+   },
+   "155-4_cam02_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 1,
+    "first_fire_vs_label_sec": 1.6999999999999993
+   },
+   "155-5_cam01_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 2,
+    "first_fire_vs_label_sec": 0.6000000000000014
+   },
+   "155-5_cam01_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 1,
+    "first_fire_vs_label_sec": 1.5
+   },
+   "155-5_cam02_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 0,
+    "first_fire_vs_label_sec": 3.6000000000000014
+   },
+   "155-5_cam02_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 2,
+    "first_fire_vs_label_sec": 1.5
+   },
+   "155-6_cam01_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 2,
+    "first_fire_vs_label_sec": 0.5
+   },
+   "155-6_cam01_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 1,
+    "first_fire_vs_label_sec": 11.700000000000003
+   },
+   "155-6_cam02_dump01_place04_day_spring": {
+    "hit": false,
+    "fp_episodes": 3,
+    "first_fire_vs_label_sec": null
+   },
+   "155-6_cam02_dump01_place04_day_summer": {
+    "hit": false,
+    "fp_episodes": 3,
+    "first_fire_vs_label_sec": null
+   },
+   "157-1_cam01_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 2,
+    "first_fire_vs_label_sec": 8.600000000000001
+   },
+   "157-1_cam01_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 5,
+    "first_fire_vs_label_sec": -0.6999999999999993
+   },
+   "157-1_cam02_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 2,
+    "first_fire_vs_label_sec": -0.6000000000000014
+   },
+   "157-1_cam02_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 1,
+    "first_fire_vs_label_sec": -0.5
+   },
+   "157-2_cam01_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 1,
+    "first_fire_vs_label_sec": 8.399999999999999
+   },
+   "157-2_cam01_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 4,
+    "first_fire_vs_label_sec": -1.0
+   },
+   "157-2_cam02_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 2,
+    "first_fire_vs_label_sec": -1.0
+   },
+   "157-2_cam02_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 5,
+    "first_fire_vs_label_sec": 2.6000000000000014
+   },
+   "157-3_cam01_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 4,
+    "first_fire_vs_label_sec": -1.0
+   },
+   "157-3_cam01_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 4,
+    "first_fire_vs_label_sec": 2.6000000000000014
+   },
+   "157-3_cam02_dump01_place04_day_spring": {
+    "hit": false,
+    "fp_episodes": 1,
+    "first_fire_vs_label_sec": null
+   },
+   "157-3_cam02_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 3,
+    "first_fire_vs_label_sec": 0.6000000000000014
+   },
+   "157-4_cam01_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 3,
+    "first_fire_vs_label_sec": 0.3999999999999986
+   },
+   "157-4_cam01_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 3,
+    "first_fire_vs_label_sec": 4.5
+   },
+   "157-4_cam02_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 2,
+    "first_fire_vs_label_sec": 0.10000000000000142
+   },
+   "157-4_cam02_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 2,
+    "first_fire_vs_label_sec": 1.0
+   }
+  }
+ },
+ "tuned_params": {
+  "bend_tilt_deg": 60,
+  "crouch_knee_deg": 110,
+  "crouch_height_ratio": 0.6,
+  "reach_low_ratio": 0.25,
+  "placing_min_frac": 0.8,
+  "placing_window_sec": 0.4
+ },
+ "tuned_train": {
+  "clips": 24,
+  "recall": 0.9166666666666666,
+  "fp_episodes": 29,
+  "fp_per_min": 1.8638131045342072,
+  "fired_frames": 3237,
+  "median_latency_sec": 1.8499999999999996,
+  "per_clip": {
+   "155-1_cam01_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 1,
+    "first_fire_vs_label_sec": 2.0
+   },
+   "155-1_cam01_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 2,
+    "first_fire_vs_label_sec": 3.0
+   },
+   "155-1_cam02_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 0,
+    "first_fire_vs_label_sec": 7.0
+   },
+   "155-1_cam02_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 0,
+    "first_fire_vs_label_sec": 1.8999999999999986
+   },
+   "155-2_cam01_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 1,
+    "first_fire_vs_label_sec": 1.3999999999999986
+   },
+   "155-2_cam01_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 2,
+    "first_fire_vs_label_sec": -0.1999999999999993
+   },
+   "155-2_cam02_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 1,
+    "first_fire_vs_label_sec": 1.1000000000000014
+   },
+   "155-2_cam02_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 3,
+    "first_fire_vs_label_sec": 1.3999999999999986
+   },
+   "155-3_cam01_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 0,
+    "first_fire_vs_label_sec": 0.8000000000000007
+   },
+   "155-3_cam01_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 0,
+    "first_fire_vs_label_sec": 1.1000000000000014
+   },
+   "155-3_cam02_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 1,
+    "first_fire_vs_label_sec": 1.8000000000000007
+   },
+   "155-3_cam02_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 1,
+    "first_fire_vs_label_sec": 1.3000000000000007
+   },
+   "155-4_cam01_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 1,
+    "first_fire_vs_label_sec": 2.8000000000000007
+   },
+   "155-4_cam01_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 3,
+    "first_fire_vs_label_sec": 3.1999999999999993
+   },
+   "155-4_cam02_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 0,
+    "first_fire_vs_label_sec": 2.0
+   },
+   "155-4_cam02_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 1,
+    "first_fire_vs_label_sec": 1.6999999999999993
+   },
+   "155-5_cam01_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 2,
+    "first_fire_vs_label_sec": 0.6000000000000014
+   },
+   "155-5_cam01_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 1,
+    "first_fire_vs_label_sec": 2.1000000000000014
+   },
+   "155-5_cam02_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 0,
+    "first_fire_vs_label_sec": 3.6000000000000014
+   },
+   "155-5_cam02_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 1,
+    "first_fire_vs_label_sec": 2.3000000000000007
+   },
+   "155-6_cam01_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 2,
+    "first_fire_vs_label_sec": 0.5
+   },
+   "155-6_cam01_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 1,
+    "first_fire_vs_label_sec": 11.700000000000003
+   },
+   "155-6_cam02_dump01_place04_day_spring": {
+    "hit": false,
+    "fp_episodes": 3,
+    "first_fire_vs_label_sec": null
+   },
+   "155-6_cam02_dump01_place04_day_summer": {
+    "hit": false,
+    "fp_episodes": 2,
+    "first_fire_vs_label_sec": null
+   }
+  }
+ },
+ "tuned_valid": {
+  "clips": 16,
+  "recall": 0.9375,
+  "fp_episodes": 42,
+  "fp_per_min": 4.049233537937461,
+  "fired_frames": 2444,
+  "median_latency_sec": 0.3999999999999986,
+  "per_clip": {
+   "157-1_cam01_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 2,
+    "first_fire_vs_label_sec": 8.600000000000001
+   },
+   "157-1_cam01_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 4,
+    "first_fire_vs_label_sec": -0.6999999999999993
+   },
+   "157-1_cam02_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 2,
+    "first_fire_vs_label_sec": -0.6000000000000014
+   },
+   "157-1_cam02_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 1,
+    "first_fire_vs_label_sec": -0.5
+   },
+   "157-2_cam01_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 0,
+    "first_fire_vs_label_sec": 8.399999999999999
+   },
+   "157-2_cam01_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 3,
+    "first_fire_vs_label_sec": -1.0
+   },
+   "157-2_cam02_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 2,
+    "first_fire_vs_label_sec": -1.0
+   },
+   "157-2_cam02_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 5,
+    "first_fire_vs_label_sec": 2.6000000000000014
+   },
+   "157-3_cam01_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 5,
+    "first_fire_vs_label_sec": -1.0
+   },
+   "157-3_cam01_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 4,
+    "first_fire_vs_label_sec": 2.6000000000000014
+   },
+   "157-3_cam02_dump01_place04_day_spring": {
+    "hit": false,
+    "fp_episodes": 1,
+    "first_fire_vs_label_sec": null
+   },
+   "157-3_cam02_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 3,
+    "first_fire_vs_label_sec": 0.6000000000000014
+   },
+   "157-4_cam01_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 3,
+    "first_fire_vs_label_sec": 0.3999999999999986
+   },
+   "157-4_cam01_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 3,
+    "first_fire_vs_label_sec": 4.5
+   },
+   "157-4_cam02_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 2,
+    "first_fire_vs_label_sec": 0.10000000000000142
+   },
+   "157-4_cam02_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 2,
+    "first_fire_vs_label_sec": 1.1000000000000014
+   }
+  }
+ },
+ "tuned_all": {
+  "clips": 40,
+  "recall": 0.925,
+  "fp_episodes": 71,
+  "fp_per_min": 2.737947567661368,
+  "fired_frames": 5681,
+  "median_latency_sec": 1.3999999999999986,
+  "per_clip": {
+   "155-1_cam01_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 1,
+    "first_fire_vs_label_sec": 2.0
+   },
+   "155-1_cam01_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 2,
+    "first_fire_vs_label_sec": 3.0
+   },
+   "155-1_cam02_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 0,
+    "first_fire_vs_label_sec": 7.0
+   },
+   "155-1_cam02_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 0,
+    "first_fire_vs_label_sec": 1.8999999999999986
+   },
+   "155-2_cam01_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 1,
+    "first_fire_vs_label_sec": 1.3999999999999986
+   },
+   "155-2_cam01_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 2,
+    "first_fire_vs_label_sec": -0.1999999999999993
+   },
+   "155-2_cam02_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 1,
+    "first_fire_vs_label_sec": 1.1000000000000014
+   },
+   "155-2_cam02_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 3,
+    "first_fire_vs_label_sec": 1.3999999999999986
+   },
+   "155-3_cam01_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 0,
+    "first_fire_vs_label_sec": 0.8000000000000007
+   },
+   "155-3_cam01_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 0,
+    "first_fire_vs_label_sec": 1.1000000000000014
+   },
+   "155-3_cam02_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 1,
+    "first_fire_vs_label_sec": 1.8000000000000007
+   },
+   "155-3_cam02_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 1,
+    "first_fire_vs_label_sec": 1.3000000000000007
+   },
+   "155-4_cam01_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 1,
+    "first_fire_vs_label_sec": 2.8000000000000007
+   },
+   "155-4_cam01_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 3,
+    "first_fire_vs_label_sec": 3.1999999999999993
+   },
+   "155-4_cam02_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 0,
+    "first_fire_vs_label_sec": 2.0
+   },
+   "155-4_cam02_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 1,
+    "first_fire_vs_label_sec": 1.6999999999999993
+   },
+   "155-5_cam01_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 2,
+    "first_fire_vs_label_sec": 0.6000000000000014
+   },
+   "155-5_cam01_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 1,
+    "first_fire_vs_label_sec": 2.1000000000000014
+   },
+   "155-5_cam02_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 0,
+    "first_fire_vs_label_sec": 3.6000000000000014
+   },
+   "155-5_cam02_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 1,
+    "first_fire_vs_label_sec": 2.3000000000000007
+   },
+   "155-6_cam01_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 2,
+    "first_fire_vs_label_sec": 0.5
+   },
+   "155-6_cam01_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 1,
+    "first_fire_vs_label_sec": 11.700000000000003
+   },
+   "155-6_cam02_dump01_place04_day_spring": {
+    "hit": false,
+    "fp_episodes": 3,
+    "first_fire_vs_label_sec": null
+   },
+   "155-6_cam02_dump01_place04_day_summer": {
+    "hit": false,
+    "fp_episodes": 2,
+    "first_fire_vs_label_sec": null
+   },
+   "157-1_cam01_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 2,
+    "first_fire_vs_label_sec": 8.600000000000001
+   },
+   "157-1_cam01_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 4,
+    "first_fire_vs_label_sec": -0.6999999999999993
+   },
+   "157-1_cam02_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 2,
+    "first_fire_vs_label_sec": -0.6000000000000014
+   },
+   "157-1_cam02_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 1,
+    "first_fire_vs_label_sec": -0.5
+   },
+   "157-2_cam01_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 0,
+    "first_fire_vs_label_sec": 8.399999999999999
+   },
+   "157-2_cam01_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 3,
+    "first_fire_vs_label_sec": -1.0
+   },
+   "157-2_cam02_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 2,
+    "first_fire_vs_label_sec": -1.0
+   },
+   "157-2_cam02_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 5,
+    "first_fire_vs_label_sec": 2.6000000000000014
+   },
+   "157-3_cam01_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 5,
+    "first_fire_vs_label_sec": -1.0
+   },
+   "157-3_cam01_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 4,
+    "first_fire_vs_label_sec": 2.6000000000000014
+   },
+   "157-3_cam02_dump01_place04_day_spring": {
+    "hit": false,
+    "fp_episodes": 1,
+    "first_fire_vs_label_sec": null
+   },
+   "157-3_cam02_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 3,
+    "first_fire_vs_label_sec": 0.6000000000000014
+   },
+   "157-4_cam01_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 3,
+    "first_fire_vs_label_sec": 0.3999999999999986
+   },
+   "157-4_cam01_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 3,
+    "first_fire_vs_label_sec": 4.5
+   },
+   "157-4_cam02_dump01_place04_day_spring": {
+    "hit": true,
+    "fp_episodes": 2,
+    "first_fire_vs_label_sec": 0.10000000000000142
+   },
+   "157-4_cam02_dump01_place04_day_summer": {
+    "hit": true,
+    "fp_episodes": 2,
+    "first_fire_vs_label_sec": 1.1000000000000014
+   }
+  }
+ }
+}

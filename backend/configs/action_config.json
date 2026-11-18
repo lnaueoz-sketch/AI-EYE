@@ -1,0 +1,15 @@
+{
+  "motion_window_sec": 0.8,
+  "drop_min": 0.45,
+  "vy_min": 0.8,
+  "low_hand_ratio": 1.0,
+  "bend_tilt_deg": 60,
+  "crouch_knee_deg": 110,
+  "crouch_height_ratio": 0.6,
+  "reach_low_ratio": 0.25,
+  "ref_window_sec": 6.0,
+  "placing_window_sec": 0.4,
+  "placing_min_frac": 0.8,
+  "hold_sec": 1.5,
+  "walk_speed": 0.6
+}
