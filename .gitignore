@@ -1,0 +1,21 @@
+# --- 공통 ---
+.DS_Store
+Thumbs.db
+.env
+.env.*
+
+# --- 프론트엔드 (각자 npm install 로 설치) ---
+node_modules/
+dist/
+
+# --- 백엔드 (각자 venv 만들고 pip install) ---
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# 실행하면 생기는 파일들
+*.db
+backend/snapshots/
+backend/temp_*
+backend/yolov8n-pose.pt
